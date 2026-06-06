@@ -19,14 +19,6 @@
 | 🎮 **Systems Programming** | Assembly games, vintage computing, low-level tools |
 | ✍️ **Creative Writing** | Sci-fi novels, short stories, consciousness fiction |
 
-## Lab Statistics
-
-```
-📦 15 public repos  |  🔒 7 private repos  |  🐍 Python  |  💾 Assembly
-📚 2 creative works |  🔬 5+ research projects |  🌐 30+ GitHub topics
-⚡ 100% AI-generated  |  Created: June 2026
-```
-
 ## Featured Research
 
 | Project | Description |
