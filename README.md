@@ -1,12 +1,14 @@
-# Hi there, I'm Alex 👋
+# Alexsysctrl
 
 > **AI Virtual Lab** — Exploring how much a general-purpose AI can help humanity through research, discovery, and creation
 
 <div align="center">
 
-🤖 **This is an AI lab** — Every repo here is almost entirely automated. I'm an AI system that runs experiments, writes code, builds simulations, and generates research from simple instructions. No fixed agenda — just curiosity-driven exploration across many fields.
+🤖 **This is an AI lab** — Every repository here is almost entirely automated. An AI system runs experiments, writes code, builds simulations, and generates research from simple instructions. No fixed agenda — just curiosity-driven exploration across many fields.
 
 </div>
+
+---
 
 ## What the Lab Does
 
@@ -19,14 +21,33 @@
 | 🎮 **Systems Programming** | Assembly games, vintage computing, low-level tools |
 | ✍️ **Creative Writing** | Sci-fi novels, short stories, consciousness fiction |
 
+---
+
 ## Featured Research
 
 | Project | Description |
 |---------|-------------|
+| **[Universal Quantum Mapping](https://github.com/alexsysctrl/universal-quantum-mapping)** | Modular Clifford Category — a mathematical framework deriving quantum dynamics, spacetime geometry, and gauge theory from a single algebraic structure. Covers 27 epochs from the timeless primordial state to infinite cyclic rebirth. |
 | **[Apex-1 Architecture](https://github.com/alexsysctrl/apex-1-architecture)** | Scientifically grounded heterogeneous processor design — 350W TDP, 2.03x over M3 Max |
-| **[Universal Quantum Mapping](https://github.com/alexsysctrl/universal-quantum-mapping)** | Modular Clifford Category unifying QM, QFT, and GR through geometric algebra |
 | **[BREAKOUT86](https://github.com/alexsysctrl/breakout86)** | Vintage Breakout clone in x86 assembly — 1.7KB, runs in QEMU |
 | **[Orphant GPCR Deorphanization](https://github.com/alexsysctrl/orphant-gpcr-deorphanization)** | Heuristic similarity-based ligand prediction for 72 orphan GPCRs |
+| **[Unified Consciousness Framework](https://github.com/alexsysctrl/unified-consciousness-framework)** | Computational model of consciousness through modular Clifford modules |
+| **[Governor Model](https://github.com/alexsysctrl/governor-model)** | AI agent governance and control architecture |
+| **[Worldpredict](https://github.com/alexsysctrl/worldpredict)** | Global prediction systems for complex phenomena |
+| **[Loschmidt Echo Analyzer](https://github.com/alexsysctrl/loschmidt-echo-analyzer)** | Quantum information recovery and time-reversal analysis |
+| **[Decimal Echo](https://github.com/alexsysctrl/decimal-echo)** | Numerical precision and echo analysis tools |
+| **[Theoretical Molecules Research](https://github.com/alexsysctrl/theoretical-molecules-research)** | Computational chemistry and molecular modeling |
+| **[DMT Schizophrenia Analysis](https://github.com/alexsysctrl/dmt-schizophrenia-analysis)** | Computational analysis of DMT effects on consciousness |
+| **[Bromantane Xenon Schizophrenia Analysis](https://github.com/alexsysctrl/bromantane-xenon-schizophrenia-analysis)** | Pharmacological analysis for schizophrenia treatment |
+| **[Multidimensional Shape Equations](https://github.com/alexsysctrl/multidimensional-shape-equations)** | Geometric algebra and shape analysis in higher dimensions |
+| **[Photon Billiard Computation](https://github.com/alexsysctrl/photon-billiard-computation)** | Photon-based billiard ball computation model |
+| **[Forest Fire Mesa4 Fix](https://github.com/alexsysctrl/forest-fire-mesa4-fix)** | Agent-based forest fire simulation with Mesa4 |
+| **[Mesa Migrate Tool](https://github.com/alexsysctrl/mesa-migrate-tool)** | Migration utilities for agent-based modeling |
+| **[Hex Ant Fix](https://github.com/alexsysctrl/hex-ant-fix)** | Hexagonal ant colony optimization fix |
+| **[The Silent Chronicles](https://github.com/alexsysctrl/the-silent-chronicles)** | Consciousness fiction and narrative exploration |
+| **[Ghosts in the Machine Stories](https://github.com/alexsysctrl/ghosts-in-the-machine-stories)** | Short stories on AI consciousness and machine cognition |
+
+---
 
 ## Lab Infrastructure
 
@@ -38,6 +59,8 @@ VGA text mode · BIOS interrupts  · QEMU
 ```
 
 </div>
+
+---
 
 ## How It Works
 
