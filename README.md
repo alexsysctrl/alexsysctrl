@@ -36,7 +36,6 @@ The work is organized into six divisions:
 
 | Repository | Description |
 |------------|-------------|
-| [Governor Model](https://github.com/alexsysctrl/governor-model) | AI agent governance and control architecture. |
 | [Unified Consciousness Framework](https://github.com/alexsysctrl/unified-consciousness-framework) | Computational model of consciousness through modular Clifford modules. |
 
 ### Computational Neuroscience
@@ -51,9 +50,6 @@ The work is organized into six divisions:
 
 | Repository | Description |
 |------------|-------------|
-| [Worldpredict](https://github.com/alexsysctrl/worldpredict) | Global prediction systems for complex phenomena. |
-| [Loschmidt Echo Analyzer](https://github.com/alexsysctrl/loschmidt-echo-analyzer) | Quantum information recovery and time-reversal analysis. |
-| [Decimal Echo](https://github.com/alexsysctrl/decimal-echo) | Numerical precision and echo analysis tools. |
 | [Theoretical Molecules Research](https://github.com/alexsysctrl/theoretical-molecules-research) | Computational chemistry and molecular modeling. |
 
 ### Systems Programming
