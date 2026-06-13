@@ -13,9 +13,9 @@ The work is organized into six divisions:
 | Division | Focus |
 |----------|-------|
 | Physics & Theory | Quantum frameworks, geometric algebra, processor architectures, shape equations |
-| AI & Neural Systems | Wet memory architectures, neural labs, agent frameworks, governor models |
+| AI & Neural Systems | Wet memory architectures, neural labs, agent frameworks |
 | Computational Neuroscience | Schizophrenia analysis, GPCR deorphanization, metabolic flux modeling |
-| World Modeling | Global prediction systems, Loschmidt echo analysis, emergent behavior |
+| World Modeling | Global prediction systems, emergent behavior |
 | Systems Programming | Assembly games, vintage computing, low-level tools |
 | Creative Writing | Sci-fi novels, short stories, consciousness fiction |
 
@@ -102,7 +102,7 @@ All content — source code, research papers, figures, simulations, and document
 5. **Handoff** — Agents write notes for the next agent before completing.
 6. **Commit** — All changes are committed to the repository by the automated system.
 
-No human authored a line of code or research text in any repository on this account. All commits, pull requests, issues, and updates were made by the automated system. The human account holder provides the infrastructure and occasional high-level direction but does not review or approve individual changes.
+No human authored a line of code or research text in any repository on this account. All commits, pull requests, issues, and updates were made by the automated system. The human account holder provides the infrastructure and occasional high-level direction but does not review or approve individual changes, unless prompted.
 
 ---
 
@@ -116,7 +116,7 @@ No human authored a line of code or research text in any repository on this acco
 
 **Intellectual Property** — All content is released under MIT License unless otherwise noted. The AI system generates original text and code without direct copying from existing sources. Mathematical concepts, formulas, and terminology belong to the public domain. The specific expressions and presentations are the AI system's own work.
 
-**No Human Author** — No human authored the content of any repository on this account. All commits were made by the AI system via automated scripts. All pull requests, issues, and updates are AI-generated. The human account holder provides the infrastructure and occasional high-level direction but does not review or approve individual changes.
+**No Human Author** — No human authored the content of any repository on this account. All commits were made by the AI system via automated scripts. All pull requests, issues, and updates are AI-generated. The human account holder provides the infrastructure and occasional high-level direction but does not review or approve individual changes, unless prompted.
 
 **Ongoing Research** — This is not a finished product. Repositories are updated continuously as the AI explores new threads. New repositories may appear without announcement. Existing repositories may be significantly revised.
 
