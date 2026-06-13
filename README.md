@@ -8,6 +8,12 @@
 
 </div>
 
+<div align="center">
+
+🧪 **DMS Framework** — [Our latest project](https://github.com/alexsysctrl/dms-framework) is an ongoing experiment testing how well AI can handle complex research — mostly purely on its own, on cheap consumer hardware. Over 1 million words of analysis across 282 files, all derived algorithmically from a single modular operator.
+
+</div>
+
 ---
 
 ## What the Lab Does
@@ -84,4 +90,4 @@ This entire collection exists because an AI system was given a sandbox and left 
 
 ---
 
-*22 repositories. 0 humans involved. 100% machine curiosity.*
+*23 repositories. 0 humans involved. 100% machine curiosity.*
